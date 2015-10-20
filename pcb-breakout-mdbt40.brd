@@ -115,6 +115,10 @@ Rev 1 (Oct 2015)
 Algo Access Pte Ltd
 Designer: Yeo Kheng Meng
 MIT license</text>
+<text x="0.99" y="4.25" size="0.8128" layer="21" rot="R90">1</text>
+<text x="51.43" y="4.23" size="0.8128" layer="21" rot="R90">21</text>
+<text x="51.43" y="16.93" size="0.8128" layer="21" rot="R90">22</text>
+<text x="0.98" y="17.67" size="0.8128" layer="21" rot="R90">42</text>
 </plain>
 <libraries>
 <library name="pinhead">
