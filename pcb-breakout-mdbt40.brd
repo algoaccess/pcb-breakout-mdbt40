@@ -68,8 +68,8 @@
 <text x="1.94" y="3.49" size="0.8128" layer="21" rot="R90">GND</text>
 <text x="1.11" y="19.35" size="0.8128" layer="21" rot="R270">GND</text>
 <text x="4.48" y="3.49" size="0.8128" layer="21" rot="R90">GND</text>
-<text x="6.86" y="3.54" size="0.6096" layer="21" rot="R90">AVDD</text>
-<text x="9.05" y="3.54" size="0.6096" layer="21" rot="R90">P0.21</text>
+<text x="5.65" y="3.41" size="0.6096" layer="21">AVDD</text>
+<text x="8.07" y="4.37" size="0.6096" layer="21">P0.21</text>
 <text x="10.53" y="3.38" size="0.6096" layer="21">P0.22</text>
 <text x="12.89" y="4.34" size="0.6096" layer="21">P0.23</text>
 <text x="15.49" y="3.4" size="0.6096" layer="21">P0.24</text>
@@ -871,10 +871,10 @@ design rules under a new name.</description>
 <vertex x="56" y="23.44"/>
 <vertex x="56" y="-0.5"/>
 <vertex x="0" y="-0.5"/>
-<vertex x="0" y="5"/>
-<vertex x="5" y="5"/>
-<vertex x="5" y="16"/>
-<vertex x="0" y="16"/>
+<vertex x="0.02" y="5.59"/>
+<vertex x="5.02" y="5.59"/>
+<vertex x="5.03" y="16.51"/>
+<vertex x="0.03" y="16.51"/>
 </polygon>
 <contactref element="JP2" pad="18"/>
 <contactref element="U$1" pad="25"/>
