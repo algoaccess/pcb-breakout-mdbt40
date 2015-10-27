@@ -871,8 +871,8 @@ design rules under a new name.</description>
 <vertex x="56" y="-0.5"/>
 <vertex x="0" y="-0.5"/>
 <vertex x="0.21" y="5.96"/>
-<vertex x="5.21" y="5.96"/>
-<vertex x="5.05" y="17.1"/>
+<vertex x="4.95" y="5.98"/>
+<vertex x="5.03" y="17.11"/>
 <vertex x="-0.13" y="17.07"/>
 </polygon>
 <contactref element="JP2" pad="18"/>
